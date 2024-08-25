@@ -6,7 +6,7 @@ package lab02.bt01;
 
 /**
  *
- * @author TULUCD
+ * @author ADMIN
  */
 public class ChuNhat {
     public double dai;

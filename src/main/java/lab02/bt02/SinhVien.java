@@ -6,7 +6,7 @@ package lab02.bt02;
 
 /**
  *
- * @author TULUCD
+ * @author ADMIN
  */
 abstract public class SinhVien {
 

@@ -6,7 +6,7 @@ package lab02.bt03;
 
 /**
  *
- * @author TULUCD
+ * @author ADMIN
  */
 import java.util.ArrayList;
 import java.util.Collections;

@@ -6,7 +6,7 @@ package lab02.bt02;
 
 /**
  *
- * @author TULUCD
+ * @author ADMIN
  */
 public class SinhVienIT extends SinhVien{
     public double java;

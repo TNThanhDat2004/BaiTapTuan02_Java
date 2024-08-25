@@ -6,7 +6,7 @@ package lab02.bt03;
 
 /**
  *
- * @author TULUCD
+ * @author ADMIN
  */
 public abstract class SinhVien {
       protected String hoTen;
